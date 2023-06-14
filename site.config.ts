@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Avi Nagites Notion',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+ // domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Bokavi Sumi',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Avi Nagites Notion Site',
 
   // social usernames (optional)
   twitter: 'nagitesinc',
@@ -50,16 +50,16 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'default'
-  // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+  // navigationStyle: 'default'
+  navigationStyle: 'custom',
+   navigationLinks: [
+     {
+       title: 'About',
+       pageId: '51e2dfcac325429aa23b23b6670e86d8'
+     },
+     {
+       title: 'Contact',
+       pageId: '07a20a525dbf4881a4c6a48a55f64035'
+     }
+   ]
 })
