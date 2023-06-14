@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Avi Nagites Notion',
- // domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'mynotion-nine.vercel.app',
   author: 'Bokavi Sumi',
 
   // open graph metadata (optional)
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'nagitesinc',
   github: 'avinagites',
-  // linkedin: 'fisch2',
+  linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
