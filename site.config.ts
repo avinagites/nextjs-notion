@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: '5eab54ae-c89e-4dd8-9abb-37e408ef553f',
 
   // basic site info (required)
   name: 'Avi Nagites Notion',
