@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: '5eab54ae-c89e-4dd8-9abb-37e408ef553f',
 
   // basic site info (required)
-  name: 'Avi Nagites Notion',
-  domain: 'mynotion-nine.vercel.app',
+  name: 'Avisumi Notion',
+  domain: 'notion.avisumi.pw',
   author: 'Bokavi Sumi',
 
   // open graph metadata (optional)
-  description: 'Avi Nagites Notion Site',
+  description: 'Avisumi Notion Site',
 
   // social usernames (optional)
   twitter: 'nagitesinc',
